@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Falis Web and mobile app developer <br /><br />
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Web and mobile app developer <br /><br />
 • 💻 Self-taught Developer <br />• 🤖 Web & Mobile App Developer<br />  * 🌍  I'm based in Slovakia<br /> * ✉️  You can contact me at [falis.gabriel@gmail.com](mailto:falis.gabriel@gmail.com) * 🧠  I'm learning React
 
 <a href="https://www.github.com/Gabik7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Gabik7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
